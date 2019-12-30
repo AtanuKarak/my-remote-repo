@@ -1,1 +1,1 @@
-Line #1 - This line is common is master and all other branches
+Line #1 - This line is common in master and all other branches
